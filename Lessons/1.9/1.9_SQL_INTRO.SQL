@@ -7,6 +7,8 @@ select  sdsdw sdss
 
 
 
+select job_title_short
+from job_posting_facts
 
 
 
