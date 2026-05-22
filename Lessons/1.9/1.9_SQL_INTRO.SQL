@@ -6,7 +6,7 @@ select 55 as result;
 select  sdsdw sdss
 
 
-SELECT job_title_short
+SELECT job_country
 FROM job_postings_fact
 
 
